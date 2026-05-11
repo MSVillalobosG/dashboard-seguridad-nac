@@ -1,5 +1,6 @@
 # 🚀 Plataforma de Monitoreo y Automatización NAC
 <img width="1905" height="1071" alt="Pestaña Bloqueos" src="https://github.com/user-attachments/assets/96654b29-9e0c-4a3e-bdf1-9f0b1c23a79f" />
+
 <img width="1896" height="999" alt="Alerta Moderada" src="https://github.com/user-attachments/assets/ef88dead-79c1-4355-934d-4a4e4ba338e7" />
 
 Plataforma fullstack desarrollada para la centralización, monitoreo y análisis de alertas NAC (Network Access Control) en entornos corporativos.
