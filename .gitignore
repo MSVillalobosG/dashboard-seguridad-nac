@@ -1,0 +1,20 @@
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.db-shm
+*.db-wal
+*.bak
+*.zip
+*.pdf
+*.docx
+*.xlsx
+*.xlsm
+*.exe
+todo aca se mueve/
+Nueva carpeta/
+Nueva carpeta (2)/
+Funcionamiento/
